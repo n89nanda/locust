@@ -1,6 +1,6 @@
 import os
 import sys
-
+import multiprocessing
 import configargparse
 
 import locust
